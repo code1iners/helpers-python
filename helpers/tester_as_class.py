@@ -1,3 +1,4 @@
 class Tester:
+    
     def test(self):
-        print("Hello~!")
+        print(f"Hello~!")

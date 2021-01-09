@@ -27,6 +27,7 @@ setup(
         "helpers",
         "python",
         "django",
+        "restframework",
         "takemyhands",
     ],
     packages=find_packages(),

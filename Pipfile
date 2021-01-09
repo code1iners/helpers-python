@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 twine = "*"
 djangorestframework = "*"
+pyjwt = "*"
+django = "==2.2.5"
 
 [requires]
-python_version = "3.9"
+python_version = "3.8"
