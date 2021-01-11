@@ -46,3 +46,6 @@
 
 0.0.16 ~ 0.0.18 (2021/1/9)
 - Added NCloud SENS API Manager.
+
+0.0.19 ~ 0.0.21 (2021/1/11)
+- Added NCloud Books API Manager.
