@@ -50,5 +50,8 @@
 0.0.19 ~ 0.0.21 (2021/1/11)
 - Added NCloud Books API Manager.
 
-0.0.22 (2021/1/21)
+0.0.22 ~ 0.0.23 (2021/1/21)
 - Added XML to Json parser.
+
+0.0.24 (2021/1/21)
+- Added Date parser (6 digit).
