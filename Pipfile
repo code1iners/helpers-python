@@ -1,15 +1,37 @@
 [[source]]
-name = "pypi"
 url = "https://pypi.org/simple"
 verify_ssl = true
-
-[dev-packages]
+name = "pypi"
 
 [packages]
-twine = "*"
-djangorestframework = "*"
-pyjwt = "*"
-django = "==2.2.5"
+bleach = "==3.2.1"
+certifi = "==2020.12.5"
+chardet = "==4.0.0"
+colorama = "==0.4.4"
+djangorestframework = "==3.12.2"
+docutils = "==0.16"
+idna = "==2.10"
+keyring = "==21.8.0"
+pkginfo = "==1.6.1"
+pyparsing = "==2.4.7"
+pytz = "==2020.5"
+readme-renderer = "==28.0"
+requests-toolbelt = "==0.9.1"
+requests = "==2.25.1"
+rfc3986 = "==1.4.0"
+six = "==1.15.0"
+sqlparse = "==0.4.1"
+tqdm = "==4.55.1"
+twine = "==3.3.0"
+urllib3 = "==1.26.2"
+webencodings = "==0.5.1"
+Django = "==2.2.5"
+Pygments = "==2.7.3"
+PyJWT = "==2.0.0"
+xmltodict = "*"
+
+[dev-packages]
+flake8 = "*"
 
 [requires]
 python_version = "3.8"
